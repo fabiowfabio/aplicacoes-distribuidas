@@ -1,1 +1,1 @@
-# sistemas-distribuidos
+# aplicacoes-distribuidas
